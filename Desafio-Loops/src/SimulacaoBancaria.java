@@ -42,6 +42,8 @@ public class SimulacaoBancaria {
         }
         scanner.close();
     }
+
+    
     
      public static void exibirMenu() {
         System.out.println("\n----- Menu -----");
